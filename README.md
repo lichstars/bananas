@@ -67,6 +67,10 @@ description: In no particular order...
 
 * Know what a package manager is and used for. [NPM](https://docs.npmjs.com/getting-started/what-is-npm) and [Yarn](https://yarnpkg.com/en/) aren't the only two available but [here's a document](https://medium.com/@nikjohn/facebooks-yarn-vs-npm-is-yarn-really-better-1890b3ea6515) explaining the difference as a starting point. From the npm and yarn doco pages, a good thing to understand is [what a package is and what a module is.](https://docs.npmjs.com/getting-started/packages)
 
+### Testing
+
+* Use [Charles](https://community.rea-group.com/docs/DOC-65919-testing-finx-in-native-apps-using-charles) to proxy requests so we can test on mobile devices. 
+
 ### For entertainment
 
 * A basic starting point into learning about [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
