@@ -48,7 +48,6 @@ description: In no particular order...
 * [Top 10 features you should know about ES6](https://webapplog.com/es6/)
 * Sooner or later you're gonna hit a javascript thing known as a [Promise](https://scotch.io/tutorials/javascript-promises-for-dummies).
 * [Babel ](https://babeljs.io/)is a JavaScript [transpiler](https://en.wikipedia.org/wiki/Source-to-source_compiler). What that means is that we can take ES6/[ES2015](https://babeljs.io/docs/learn-es2015/) code and make it work on all browsers, even ones that may not support it. Essentially Babel takes the ES6 JavaScript code and compiles it into ES5 code. Although all of the code is transpiled, there are still some things like Promises and new methods that aren't recognised. A polyfill such as [babel polyfill](https://babeljs.io/docs/usage/polyfill) will help with that.
-* Most of our repositories use [enzyme](http://airbnb.io/enzyme/docs/api/shallow.html) for a javascript front end testing utility and [sinon](http://sinonjs.org/) for stubbing/spies/mock/faking things.
 * To make all our javascript code adhere to some styling standards we use [eslint](https://eslint.org/). Get it for your IDE.
 
 ### Docker
@@ -71,6 +70,9 @@ description: In no particular order...
 ### Testing
 
 * Use [Charles](https://community.rea-group.com/docs/DOC-65919-testing-finx-in-native-apps-using-charles) to proxy requests so we can test on mobile devices. 
+* If your react app was bootstrapped by create-react-app, you'll find it comes with Jest out of the box. [Jest](https://facebook.github.io/jest/docs/en/expect.html) is a test runner.
+* [Enzyme](http://airbnb.io/enzyme/) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output. 
+* Incorporate the [sinon](http://sinonjs.org/) library when you need stubs/spies/mock/fakes.
 
 ### For entertainment
 
