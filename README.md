@@ -74,6 +74,10 @@ description: In no particular order...
 * [Enzyme](http://airbnb.io/enzyme/) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output. 
 * Incorporate the [sinon](http://sinonjs.org/) library when you need stubs/spies/mock/fakes.
 
+### Git
+* An interactive clickable Git [cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+* Never lose a commit again. [Recover lost git commits](http://effectif.com/git/recovering-lost-git-commits) and [using git reflog](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog).
+* Keep [your fork up to date](https://gist.github.com/CristinaSolana/1885435)
 
 ### What's in the news
 * https://news.ycombinator.com/
