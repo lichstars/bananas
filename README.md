@@ -74,6 +74,10 @@ description: In no particular order...
 * [Enzyme](http://airbnb.io/enzyme/) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output. 
 * Incorporate the [sinon](http://sinonjs.org/) library when you need stubs/spies/mock/fakes.
 
+
+### What's in the news
+* https://news.ycombinator.com/
+
 ### For entertainment
 
 * A basic starting point into learning about [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
