@@ -65,7 +65,10 @@ description: In no particular order...
 ### Package managers
 
 * Know what a package manager is and used for. [NPM](https://docs.npmjs.com/getting-started/what-is-npm) and [Yarn](https://yarnpkg.com/en/) aren't the only two available but [here's a document](https://medium.com/@nikjohn/facebooks-yarn-vs-npm-is-yarn-really-better-1890b3ea6515) explaining the difference as a starting point. From the npm and yarn doco pages, a good thing to understand is [what a package is and what a module is.](https://docs.npmjs.com/getting-started/packages)
+
+### Vesioning
 * Making a change to one of our libraries? Learn about [semantic versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
+* A great standard on how to manage a [changelog](https://keepachangelog.com/en/1.0.0/). Probably good to implement on libraries so the team knows what changes they're pulling in.
 
 ### Testing
 
