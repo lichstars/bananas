@@ -19,6 +19,7 @@ description: In no particular order...
 * Open Web Application Security Project \(OWASP\) has released the [top 10 application security risks](https://www.owasp.org/index.php/Top_10-2017_Top_10) as of 2017
 * Internally we document and make decisions through an Interested Parties Review \(IPR\). What is an [IPR](https://community.rea-group.com/docs/DOC-47219-interested-parties-review)?
 * There's a good book written by Robert C. Martin on what is clean code. A summary of that book can be found [here](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29).
+* A great list of computer science topics to get into your brain. [Teach yourself computer science](https://teachyourselfcs.com/)
 * [Basic description](https://github.com/lichstars/party/blob/master/continous-delivery.md) of the difference between continuous integration, continuous delivery and continuous deployment.
 
 ### React
