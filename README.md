@@ -86,11 +86,13 @@ description: In no particular order...
 ### What's in the news
 * https://news.ycombinator.com/
 
+
 ### For entertainment
 
-* A basic starting point into learning about [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
+* An intense introduction to [crytography](https://www.intensecrypto.org/public/)
 * Read the [bitcoin paper](https://bitcoin.org/bitcoin.pdf)
 * A relatively easy to understand primer on [elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+* A basic starting point into learning about [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
 * What is a [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 * What is [consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
 * What is a [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
