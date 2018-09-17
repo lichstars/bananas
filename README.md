@@ -21,7 +21,7 @@ description: In no particular order...
 * There's a good book written by Robert C. Martin on what is clean code. A summary of that book can be found [here](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29).
 * A great list of computer science topics to get into your brain. [Teach yourself computer science](https://teachyourselfcs.com/)
 * [My personal notes on](https://github.com/lichstars/party/blob/master/continous-delivery.md) the differences between continuous integration, continuous delivery and continuous deployment.
-* [HTTP/1.1 Method definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5) - GET, POST, PUT, DELETE, etc.
+* [HTTP/1.1 Method definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5) - GET, POST, PUT, DELETE, etc. and [HTTP/1.1 Status code definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 
 ### React
 
