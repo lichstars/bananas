@@ -20,7 +20,8 @@ description: In no particular order...
 * Internally we document and make decisions through an Interested Parties Review \(IPR\). What is an [IPR](https://community.rea-group.com/docs/DOC-47219-interested-parties-review)?
 * There's a good book written by Robert C. Martin on what is clean code. A summary of that book can be found [here](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29).
 * A great list of computer science topics to get into your brain. [Teach yourself computer science](https://teachyourselfcs.com/)
-* [Basic description](https://github.com/lichstars/party/blob/master/continous-delivery.md) of the difference between continuous integration, continuous delivery and continuous deployment.
+* [My personal notes on](https://github.com/lichstars/party/blob/master/continous-delivery.md) the differences between continuous integration, continuous delivery and continuous deployment.
+* [HTTP/1.1 Method definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5) - GET, POST, PUT, DELETE, etc.
 
 ### React
 
@@ -87,12 +88,13 @@ description: In no particular order...
 * https://news.ycombinator.com/
 
 
-### For entertainment
-
+### Security, Encryption & Cryptography
 * An intense introduction to [crytography](https://www.intensecrypto.org/public/)
-* Read the [bitcoin paper](https://bitcoin.org/bitcoin.pdf)
+* My personal notes on [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
 * A relatively easy to understand primer on [elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
-* A basic starting point into learning about [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
+
+### Other
+* Read the [bitcoin paper](https://bitcoin.org/bitcoin.pdf)
 * What is a [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 * What is [consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
 * What is a [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
