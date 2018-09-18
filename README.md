@@ -44,6 +44,7 @@ description: In no particular order...
   * What is [webpack](https://webpack.js.org/concepts/)
   * What is [create-react-app](https://github.com/facebook/create-react-app)
   * What is [server side rendering](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4)
+  * Server side rendering with create-react-app [example](https://medium.com/front-end-hacking/server-side-rendering-with-react-and-express-382591bfc77c)
 
 ### Javascript
 
