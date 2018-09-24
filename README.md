@@ -4,17 +4,21 @@ description: In no particular order...
 
 # Resources
 
+### Architecture
+* The [hipster batch](https://medium.com/@theesit/hipster-batch-technique-on-microservices-371734f1b4be)
+* The [BFF/Companion pattern](https://samnewman.io/patterns/architectural/bff/) explained by Sam Newman.
+* Deeeeep server philosophy [Pets vs Cattle](https://www.engineyard.com/blog/pets-vs-cattle)
+* Deeeeep architectural philosophy [microservices](https://martinfowler.com/articles/microservices.html)
+* A pdf diagram of the different [design patterns](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf).
+
+
 ### Things
 
 * The [twelve factor app](https://12factor.net/) is a methodology used for building software as a service.
 * A [great page](https://chris.beams.io/posts/git-commit/#seven-rules) describing 7 really good rules to follow when writing git commit messages.
 * I use [draw.io](https://www.draw.io/) to draw diagrams to communicate architecture and other things to the team.
 * A great collection of resources turned into handbook for the[ front-end developer](https://frontendmasters.com/books/front-end-handbook/2018/).
-* A pdf diagram of the different [design patterns](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf).
-* The [BFF/Companion pattern](https://samnewman.io/patterns/architectural/bff/) explained by Sam Newman.
 * Read up on the difference between using [mock and stub](https://martinfowler.com/articles/mocksArentStubs.html) objects for testing. I believe the important difference between the two is that mocks verify behaviours and stubs verify state.
-* Deeeeep server philosophy [Pets vs Cattle](https://www.engineyard.com/blog/pets-vs-cattle)
-* Deeeeep architectural philosophy [microservices](https://martinfowler.com/articles/microservices.html)
 * Presentation on [how to pair](https://community.rea-group.com/docs/DOC-62392-pairingpresopdf)
 * Open Web Application Security Project \(OWASP\) has released the [top 10 application security risks](https://www.owasp.org/index.php/Top_10-2017_Top_10) as of 2017
 * Internally we document and make decisions through an Interested Parties Review \(IPR\). What is an [IPR](https://community.rea-group.com/docs/DOC-47219-interested-parties-review)?
@@ -57,7 +61,7 @@ description: In no particular order...
 
 * Lynda.com has an amazing beginner's video tutorial on Docker and how it can be used.
 * Here's a short 8 min youtube [video](https://www.youtube.com/watch?v=pGYAg7TMmp0) \(not sure of quality\)
-* [Gett started & installation](https://docs.docker.com/get-started/#test-docker-installation)
+* [Get started & installation](https://docs.docker.com/get-started/#test-docker-installation)
 * [Docker-compose](https://docs.docker.com/compose/overview/) for multi-container shiz.
 
 ### Node
