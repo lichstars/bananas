@@ -6,6 +6,7 @@ description: In no particular order...
 
 ### Architecture
 * The [hipster batch](https://medium.com/@theesit/hipster-batch-technique-on-microservices-371734f1b4be)
+* [System design primer](https://github.com/donnemartin/system-design-primer)
 * The [BFF/Companion pattern](https://samnewman.io/patterns/architectural/bff/) explained by Sam Newman.
 * Deeeeep server philosophy [Pets vs Cattle](https://www.engineyard.com/blog/pets-vs-cattle)
 * Deeeeep architectural philosophy [microservices](https://martinfowler.com/articles/microservices.html)
