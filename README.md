@@ -99,6 +99,9 @@ description: In no particular order...
 * My personal notes on [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
 * A relatively easy to understand primer on [elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 
+### ML
+* https://www.kaggle.com
+
 ### Other
 * Read the [bitcoin paper](https://bitcoin.org/bitcoin.pdf)
 * What is a [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
