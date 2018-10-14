@@ -94,7 +94,6 @@ description: In no particular order...
 ### What's in the news
 * https://news.ycombinator.com/
 
-
 ### Security, Encryption & Cryptography
 * An intense introduction to [crytography](https://www.intensecrypto.org/public/)
 * My personal notes on [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
@@ -102,6 +101,9 @@ description: In no particular order...
 
 ### ML
 * https://www.kaggle.com
+
+### TLS
+* [An illustrated TLS connection](https://tls.ulfheim.net/)
 
 ### Other
 * Read the [bitcoin paper](https://bitcoin.org/bitcoin.pdf)
