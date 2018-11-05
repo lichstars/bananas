@@ -31,8 +31,8 @@ description: In no particular order...
 
 ### Machine learning
 * A [ML crash course by Google](https://developers.google.com/machine-learning/crash-course/)
-* A place to do data science projects. View code, join a competition or start a project at [Kaggle] (https://www.kaggle.com)
-* [Rules of machine learning] by Google(https://developers.google.com/machine-learning/guides/rules-of-ml/)
+* A place to do data science projects. View code, join a competition or start a project at [Kaggle](https://www.kaggle.com)
+* [Rules of machine learning by Google](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 * The BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)
 * [Apache Beam](https://beam.apache.org/get-started/beam-overview/) is an open source, unified model for defining both batch and streaming data-parallel processing pipelines. 
 * Beam pipelines can then be executed on a Runner such as [Google Cloud Dataflow](https://cloud.google.com/dataflow/).
