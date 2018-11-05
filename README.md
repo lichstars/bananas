@@ -5,13 +5,13 @@ description: In no particular order...
 # Resources
 
 ### Architecture
-* The [hipster batch](https://medium.com/@theesit/hipster-batch-technique-on-microservices-371734f1b4be)
+* [Lambda architecture](https://en.wikipedia.org/wiki/Lambda_architecture) is a data-processing architecture designed to handle big data by making use of both batch and stream processing methods.
 * [System design primer](https://github.com/donnemartin/system-design-primer)
 * The [BFF/Companion pattern](https://samnewman.io/patterns/architectural/bff/) explained by Sam Newman.
 * Deeeeep server philosophy [Pets vs Cattle](https://www.engineyard.com/blog/pets-vs-cattle)
 * Deeeeep architectural philosophy [microservices](https://martinfowler.com/articles/microservices.html)
 * A pdf diagram of the different [design patterns](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf).
-
+* Microservice technique called the [hipster batch](https://medium.com/@theesit/hipster-batch-technique-on-microservices-371734f1b4be)
 
 ### Things
 
@@ -30,7 +30,7 @@ description: In no particular order...
 * [Do you really know CORS](http://performantcode.com/web/do-you-really-know-cors)
 
 ### Machine learning
-* A [ML crash course] by Google (https://developers.google.com/machine-learning/crash-course/)
+* A [ML crash course by Google](https://developers.google.com/machine-learning/crash-course/)
 * A place to do data science projects. View code, join a competition or start a project at [Kaggle] (https://www.kaggle.com)
 * [Rules of machine learning] by Google(https://developers.google.com/machine-learning/guides/rules-of-ml/)
 * The BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)
