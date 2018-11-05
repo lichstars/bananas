@@ -29,6 +29,16 @@ description: In no particular order...
 * [HTTP/1.1 Method definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5) - GET, POST, PUT, DELETE, etc. and [HTTP/1.1 Status code definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [Do you really know CORS](http://performantcode.com/web/do-you-really-know-cors)
 
+### Machine learning
+* A [ML crash course] by Google (https://developers.google.com/machine-learning/crash-course/)
+* A place to do data science projects. View code, join a competition or start a project at [Kaggle] (https://www.kaggle.com)
+* [Rules of machine learning] by Google(https://developers.google.com/machine-learning/guides/rules-of-ml/)
+* The BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)
+* [Apache Beam](https://beam.apache.org/get-started/beam-overview/) is an open source, unified model for defining both batch and streaming data-parallel processing pipelines. 
+* Beam pipelines can then be executed on a Runner such as [Google Cloud Dataflow](https://cloud.google.com/dataflow/).
+* A great start to Apache Beam at [Apache Beam Programming Guide](https://beam.apache.org/documentation/programming-guide/)
+
+
 ### React
 
 * [React](https://reactjs.org/docs/hello-world.html) is a javascript library for building interfaces for single page applications. The React official docs is amazing and a great place to start to learn all things React. They also offer a [tutorial](https://reactjs.org/tutorial/tutorial.html) that you can follow along with which I highly recommend if you are new to React.
@@ -98,11 +108,6 @@ description: In no particular order...
 * An intense introduction to [crytography](https://www.intensecrypto.org/public/)
 * My personal notes on [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
 * A relatively easy to understand primer on [elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
-
-### ML
-* A [ML crash course] by Google (https://developers.google.com/machine-learning/crash-course/)
-* A place to do data science projects. View code, join a competition or start a project at [Kaggle] (https://www.kaggle.com)
-* [Rules of machine learning] by Google(https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 ### TLS
 * [An illustrated TLS connection](https://tls.ulfheim.net/)
