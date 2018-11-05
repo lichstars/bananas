@@ -33,10 +33,10 @@ description: In no particular order...
 * A [ML crash course by Google](https://developers.google.com/machine-learning/crash-course/)
 * A place to do data science projects. View code, join a competition or start a project at [Kaggle](https://www.kaggle.com)
 * [Rules of machine learning by Google](https://developers.google.com/machine-learning/guides/rules-of-ml/)
-* The BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)
-* [Apache Beam](https://beam.apache.org/get-started/beam-overview/) is an open source, unified model for defining both batch and streaming data-parallel processing pipelines. 
-* Beam pipelines can then be executed on a Runner such as [Google Cloud Dataflow](https://cloud.google.com/dataflow/).
-* A great start to Apache Beam at [Apache Beam Programming Guide](https://beam.apache.org/documentation/programming-guide/)
+* [Apache Beam](https://beam.apache.org/get-started/beam-overview/) is an open source, unified model (the BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)) for defining both batch and streaming data-parallel processing pipelines. 
+*  Using one of the Apache Beam SDKs, you can build a program that defines a Beam pipeline - which can then be executed on a supported runner such as [Google Cloud Dataflow](https://cloud.google.com/dataflow/).
+* A [Beam pipeline](https://beam.apache.org/documentation/programming-guide/#configuring-pipeline-options) encapsulates your entire data processing task from start to finish. This includes reading input data, transforming that data, and writing output data. 
+* A great start to Apache Beam: [Apache Beam Programming Guide](https://beam.apache.org/documentation/programming-guide/)
 
 
 ### React
