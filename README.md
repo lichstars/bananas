@@ -28,6 +28,7 @@ description: In no particular order...
 * [My personal notes on](https://github.com/lichstars/party/blob/master/continous-delivery.md) the differences between continuous integration, continuous delivery and continuous deployment.
 * [HTTP/1.1 Method definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5) - GET, POST, PUT, DELETE, etc. and [HTTP/1.1 Status code definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [Do you really know CORS](http://performantcode.com/web/do-you-really-know-cors)
+* Learn, build & test [Regex](https://regexr.com/)
 
 ### Machine learning
 * A [ML crash course by Google](https://developers.google.com/machine-learning/crash-course/)
