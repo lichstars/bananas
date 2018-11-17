@@ -13,7 +13,7 @@ description: In no particular order...
 * A pdf diagram of the different [design patterns](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf).
 * Microservice technique called the [hipster batch](https://medium.com/@theesit/hipster-batch-technique-on-microservices-371734f1b4be)
 
-### Things
+### Stuff
 
 * The [twelve factor app](https://12factor.net/) is a methodology used for building software as a service.
 * A [great page](https://chris.beams.io/posts/git-commit/#seven-rules) describing 7 really good rules to follow when writing git commit messages.
@@ -34,11 +34,13 @@ description: In no particular order...
 * A [ML crash course by Google](https://developers.google.com/machine-learning/crash-course/)
 * A place to do data science projects. View code, join a competition or start a project at [Kaggle](https://www.kaggle.com)
 * [Rules of machine learning by Google](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+
+### Apache
+* [WePay usecase](https://cloud.google.com/blog/products/gcp/how-wepay-uses-stream-analytics-for-real-time-fraud-detection-using-gcp-and-apache-kafka) - using Apache Kafka with GCP for fraud detection
 * [Apache Beam](https://beam.apache.org/get-started/beam-overview/) is an open source, unified model (the BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)) for defining both batch and streaming data-parallel processing pipelines. 
 *  Using one of the Apache Beam SDKs, you can build a program that defines a Beam pipeline - which can then be executed on a supported runner such as [Google Cloud Dataflow](https://cloud.google.com/dataflow/).
 * A [Beam pipeline](https://beam.apache.org/documentation/programming-guide/#configuring-pipeline-options) encapsulates your entire data processing task from start to finish. This includes reading input data, transforming that data, and writing output data. 
 * A great start to Apache Beam: [Apache Beam Programming Guide](https://beam.apache.org/documentation/programming-guide/)
-
 
 ### React
 
