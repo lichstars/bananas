@@ -34,6 +34,8 @@ description: In no particular order...
 * Use remote procedure calls (RPCs) as a way of communication between systems. [Read about the differences between REST and RPCs](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
 * What is a [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 * White paper on Amazons Distributed [Dynamo tech](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+* Eventual consistency //TODO
+* Latency // TODO
 
 
 ### Machine learning
