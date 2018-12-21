@@ -21,23 +21,31 @@ description: In no particular order...
 * A great collection of resources turned into handbook for the[ front-end developer](https://frontendmasters.com/books/front-end-handbook/2018/).
 * Read up on the difference between using [mock and stub](https://martinfowler.com/articles/mocksArentStubs.html) objects for testing. I believe the important difference between the two is that mocks verify behaviours and stubs verify state.
 * Great page on [pair programming](https://tuple.app/pair-programming-guide/the-case-for-pair-programming). Explains the benefits, styles, and research.
-* Open Web Application Security Project \(OWASP\) has released the [top 10 application security risks](https://www.owasp.org/index.php/Top_10-2017_Top_10) as of 2017
-* Internally we document and make decisions through an Interested Parties Review \(IPR\). What is an [IPR](https://community.rea-group.com/docs/DOC-47219-interested-parties-review)?
+* Technical decisions can be made through an Interested Parties Review \(IPR\). A document outlining the problem, possible solutions and their pros and cons. Interested parties are pinged and a decision is recorded on the document.
 * There's a good book written by Robert C. Martin on what is clean code. A summary of that book can be found [here](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29).
 * A great list of computer science topics to get into your brain. [Teach yourself computer science](https://teachyourselfcs.com/)
 * [My personal notes on](https://github.com/lichstars/party/blob/master/continous-delivery.md) the differences between continuous integration, continuous delivery and continuous deployment.
 * [HTTP/1.1 Method definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5) - GET, POST, PUT, DELETE, etc. and [HTTP/1.1 Status code definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [Do you really know CORS](http://performantcode.com/web/do-you-really-know-cors)
 * Learn, build & test [Regex](https://regexr.com/)
+* [Grow your technical skills with Google](https://techdevguide.withgoogle.com)
+
+### Maybe distributed systems
+* Use remote procedure calls (RPCs) as a way of communication between systems. [Read about the differences between REST and RPCs](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
+* What is a [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
+* White paper on Amazons Distributed [Dynamo tech](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+
 
 ### Machine learning
 * A [ML crash course by Google](https://developers.google.com/machine-learning/crash-course/)
+* What is a pipeline //TODO
+* What is the role of a data scientist //TODO
 * A place to do data science projects. View code, join a competition or start a project at [Kaggle](https://www.kaggle.com)
 * [Rules of machine learning by Google](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 ### Apache
-* [WePay usecase](https://cloud.google.com/blog/products/gcp/how-wepay-uses-stream-analytics-for-real-time-fraud-detection-using-gcp-and-apache-kafka) - using Apache Kafka with GCP for fraud detection
 * [Apache Beam](https://beam.apache.org/get-started/beam-overview/) is an open source, unified model (the BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)) for defining both batch and streaming data-parallel processing pipelines. 
+* [WePay usecase](https://cloud.google.com/blog/products/gcp/how-wepay-uses-stream-analytics-for-real-time-fraud-detection-using-gcp-and-apache-kafka) - using Apache Kafka with GCP for fraud detection
 *  Using one of the Apache Beam SDKs, you can build a program that defines a Beam pipeline - which can then be executed on a supported runner such as [Google Cloud Dataflow](https://cloud.google.com/dataflow/).
 * A [Beam pipeline](https://beam.apache.org/documentation/programming-guide/#configuring-pipeline-options) encapsulates your entire data processing task from start to finish. This includes reading input data, transforming that data, and writing output data. 
 * A great start to Apache Beam: [Apache Beam Programming Guide](https://beam.apache.org/documentation/programming-guide/)
@@ -64,6 +72,9 @@ description: In no particular order...
   * What is [create-react-app](https://github.com/facebook/create-react-app)
   * What is [server side rendering](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4)
   * Server side rendering with create-react-app [tutorial](https://medium.com/front-end-hacking/server-side-rendering-with-react-and-express-382591bfc77c) and [code sample](https://gist.github.com/cereallarceny/e5bee7cb95ddfe4958f86d6bcda49ae8)
+* [Sinon](http://sinonjs.org/) is a great library for testing - when you need stubs/spies/mock/fakes.
+* If your react app was bootstrapped by create-react-app, you'll find it comes with Jest out of the box. [Jest](https://facebook.github.io/jest/docs/en/expect.html) is a test runner.
+* [Enzyme](http://airbnb.io/enzyme/) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 
 ### Javascript
 
@@ -95,9 +106,12 @@ description: In no particular order...
 ### Testing
 
 * Use [Charles](https://community.rea-group.com/docs/DOC-65919-testing-finx-in-native-apps-using-charles) to proxy requests so we can test on mobile devices. 
-* If your react app was bootstrapped by create-react-app, you'll find it comes with Jest out of the box. [Jest](https://facebook.github.io/jest/docs/en/expect.html) is a test runner.
-* [Enzyme](http://airbnb.io/enzyme/) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output. 
-* Incorporate the [sinon](http://sinonjs.org/) library when you need stubs/spies/mock/fakes.
+* Unit testing //TODO
+* Testing pyramid //TODO
+* The advantages of integration testing //TODO
+* The advantages of unit testing //TODO
+* Test driven development //TODO
+ 
 
 ### Git
 * An interactive clickable Git [cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
@@ -108,17 +122,17 @@ description: In no particular order...
 * https://news.ycombinator.com/
 
 ### Security, Encryption & Cryptography
+* [Everything you should know about certificates and public key infrastructure](https://smallstep.com/blog/everything-pki.html)
+* Cryptographic protocols designed to [provide communications security over a computer network](http://www.steves-internet-guide.com/ssl-certificates-explained/)
+  * [An illustrated TLS connection](https://tls.ulfheim.net/)
+  * [Secure sockets layer - SSL](https://www.digicert.com/ssl/)
+* Open Web Application Security Project \(OWASP\) has released the [top 10 application security risks](https://www.owasp.org/index.php/Top_10-2017_Top_10) as of 2017
 * An intense introduction to [crytography](https://www.intensecrypto.org/public/)
 * My personal notes on [Encryption](https://github.com/lichstars/party/blob/master/encryption.md)
 * A relatively easy to understand primer on [elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 
-### TLS
-* [An illustrated TLS connection](https://tls.ulfheim.net/)
-
 ### Other
 * Read the [bitcoin paper](https://bitcoin.org/bitcoin.pdf)
-* What is a [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 * What is [consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
 * What is a [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
 * What is the [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
-* White paper on Amazons Distributed [Dynamo tech](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
