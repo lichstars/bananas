@@ -30,20 +30,21 @@ description: In no particular order...
 * Learn, build & test [Regex](https://regexr.com/)
 * [Grow your technical skills with Google](https://techdevguide.withgoogle.com)
 
-### Maybe distributed systems
+### Distributed systems
 * Use remote procedure calls (RPCs) as a way of communication between systems. [Read about the differences between REST and RPCs](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
 * What is a [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
+* Introduction into [Database replication](https://www.brianstorti.com/replication/)
 * White paper on Amazons Distributed [Dynamo tech](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 * Eventual consistency //TODO
 * Latency // TODO
 
-
 ### Machine learning
 * A [ML crash course by Google](https://developers.google.com/machine-learning/crash-course/)
-* What is a pipeline //TODO
-* What is the role of a data scientist //TODO
-* A place to do data science projects. View code, join a competition or start a project at [Kaggle](https://www.kaggle.com)
 * [Rules of machine learning by Google](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+* A (feature](https://en.wikipedia.org/wiki/Feature_(machine_learning)) is a measurable property used in machine learning
+* A very simple explanation of a [machine learning pipeline](https://dzone.com/articles/how-to-build-a-simple-machine-learning-pipeline)
+* Difference between [data science, data analytics and machine learning](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)
+* A place to do data science projects. View code, join a competition or start a project at [Kaggle](https://www.kaggle.com)
 
 ### Apache
 * [Apache Beam](https://beam.apache.org/get-started/beam-overview/) is an open source, unified model (the BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)) for defining both batch and streaming data-parallel processing pipelines. 
