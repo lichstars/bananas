@@ -136,6 +136,7 @@ description: In no particular order...
 
 ### Other
 * Read the [bitcoin paper](https://bitcoin.org/bitcoin.pdf)
-* What is [consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
-* What is a [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
-* What is the [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
+* [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
+* [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Spring initialiser](https://start.spring.io/)
