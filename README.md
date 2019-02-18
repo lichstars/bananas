@@ -41,10 +41,16 @@ description: In no particular order...
 ### Machine learning
 * A [ML crash course by Google](https://developers.google.com/machine-learning/crash-course/)
 * [Rules of machine learning by Google](https://developers.google.com/machine-learning/guides/rules-of-ml/)
-* A (feature](https://en.wikipedia.org/wiki/Feature_(machine_learning)) is a measurable property used in machine learning
 * A very simple explanation of a [machine learning pipeline](https://dzone.com/articles/how-to-build-a-simple-machine-learning-pipeline)
 * Difference between [data science, data analytics and machine learning](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)
 * A place to do data science projects. View code, join a competition or start a project at [Kaggle](https://www.kaggle.com)
+* [Difference between machine learning model and algorithm](https://www.quora.com/What-is-the-difference-between-machine-learning-model-and-ML-algorithm/answer/Prashanth-Ravindran?srid=dZyb)
+* [Difference between labeled and unlabeled data](https://stackoverflow.com/questions/19170603/what-is-the-difference-between-labeled-and-unlabeled-data/19172720#19172720)
+* [Difference between label and feature](https://stackoverflow.com/questions/40898019/what-is-the-difference-between-a-feature-and-a-label/40899529#40899529)
+* [What is a feature?](https://en.wikipedia.org/wiki/Feature_%28machine_learning%29)
+* [Overfitting and underfitting](https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/)
+* [Dimensions, features, attributes](https://stackoverflow.com/questions/19803707/difference-between-dimension-attribute-and-feature-in-machine-learning/19806346#19806346)
+* 
 
 ### Apache
 * [Apache Beam](https://beam.apache.org/get-started/beam-overview/) is an open source, unified model (the BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)) for defining both batch and streaming data-parallel processing pipelines. 
