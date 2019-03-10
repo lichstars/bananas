@@ -43,6 +43,7 @@ description: In no particular order...
 * [Rules of machine learning by Google](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 * A very simple explanation of a [machine learning pipeline](https://dzone.com/articles/how-to-build-a-simple-machine-learning-pipeline)
 * Difference between [data science, data analytics and machine learning](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)
+* A great micro course on machine learning at [Kaggle](https://www.kaggle.com/learn/machine-learning)
 * A place to do data science projects. View code, join a competition or start a project at [Kaggle](https://www.kaggle.com)
 * [Difference between machine learning model and algorithm](https://www.quora.com/What-is-the-difference-between-machine-learning-model-and-ML-algorithm/answer/Prashanth-Ravindran?srid=dZyb)
 * [Difference between labeled and unlabeled data](https://stackoverflow.com/questions/19170603/what-is-the-difference-between-labeled-and-unlabeled-data/19172720#19172720)
