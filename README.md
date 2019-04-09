@@ -53,6 +53,15 @@ description: In no particular order...
 * [Dimensions, features, attributes](https://stackoverflow.com/questions/19803707/difference-between-dimension-attribute-and-feature-in-machine-learning/19806346#19806346)
 * 
 
+### Big Data
+* Paper on [MapReduce - Simplified data processing on large clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+* [History of massive-scale sorting experiments at Google](https://cloud.google.com/blog/products/gcp/history-of-massive-scale-sorting-experiments-at-google)
+* [History of Hadoop](https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704)
+* [Dataflow model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf) paper - practical approach to balancing correctness, latency, and cost in massive-scale, unbounded, out-of-order data processing
+* Paper on [Distributed snapshots- determining global states of distributed systems](http://lamport.azurewebsites.net/pubs/chandy.pdf)
+* Stream processing and how to reprocess data discussed via [Savepoints: Turning back time](https://www.ververica.com/blog/turning-back-time-savepoints)
+* [State management in Apache Flink- Consistent Stateful Distributed Stream Processing](http://www.vldb.org/pvldb/vol10/p1718-carbone.pdf)
+
 ### Apache
 * [Apache Beam](https://beam.apache.org/get-started/beam-overview/) is an open source, unified model (the BEAM Model - formerly refered to as the [Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)) for defining both batch and streaming data-parallel processing pipelines. 
 * [WePay usecase](https://cloud.google.com/blog/products/gcp/how-wepay-uses-stream-analytics-for-real-time-fraud-detection-using-gcp-and-apache-kafka) - using Apache Kafka with GCP for fraud detection
