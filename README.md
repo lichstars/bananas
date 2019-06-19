@@ -68,9 +68,9 @@ description: In no particular order...
 *  Using one of the Apache Beam SDKs, you can build a program that defines a Beam pipeline - which can then be executed on a supported runner such as [Google Cloud Dataflow](https://cloud.google.com/dataflow/).
 * A [Beam pipeline](https://beam.apache.org/documentation/programming-guide/#configuring-pipeline-options) encapsulates your entire data processing task from start to finish. This includes reading input data, transforming that data, and writing output data. 
 * A great start to Apache Beam: [Apache Beam Programming Guide](https://beam.apache.org/documentation/programming-guide/)
+* [Great video on watermarks by Slava Chenyak](https://www.youtube.com/watch?v=TWxSLmkWPm4)
 
 ### React
-
 * [React](https://reactjs.org/docs/hello-world.html) is a javascript library for building interfaces for single page applications. The React official docs is amazing and a great place to start to learn all things React. They also offer a [tutorial](https://reactjs.org/tutorial/tutorial.html) that you can follow along with which I highly recommend if you are new to React.
 * Alternatives to learning React are
   * [Codecademy course](https://www.codecademy.com/learn/react-101) for beginners
