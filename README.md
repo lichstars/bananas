@@ -124,13 +124,8 @@ description: In no particular order...
 
 ### Testing
 
-* Use [Charles](https://community.rea-group.com/docs/DOC-65919-testing-finx-in-native-apps-using-charles) to proxy requests so we can test on mobile devices. 
-* Unit testing //TODO
-* Testing pyramid //TODO
-* The advantages of integration testing //TODO
-* The advantages of unit testing //TODO
-* Test driven development //TODO
- 
+* [Modern best practices for testing in Java](https://phauer.com/2019/modern-best-practices-testing-java/)
+* Use [Charles](https://community.rea-group.com/docs/DOC-65919-testing-finx-in-native-apps-using-charles) to proxy requests so we can test on mobile devices.  
 
 ### Git
 * An interactive clickable Git [cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
